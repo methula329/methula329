@@ -1,5 +1,5 @@
 
-![methula1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+![methula1689 Banner Image](https://github.com/methula1689/methula1689/blob/main/banner.png)
 <!-- Greeting -->
 # Hey there! :wave::smiley:
 <!--Banner-->
@@ -9,7 +9,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ methula! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 <!--Introduction -->
